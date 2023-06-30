@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0a64ed47b8ec26048bd434b61ee935df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - level1Sprite: {instanceID: 0}
+  - level2Sprite: {instanceID: 0}
+  - monsterSpriteRenderer: {instanceID: 0}
+  - lifeSlider: {instanceID: 0}
+  - burnedEffect: {instanceID: 0}
+  - paralyzedEffect: {instanceID: 0}
+  - energyBallMarkEffect: {instanceID: 0}
+  - freezonEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
